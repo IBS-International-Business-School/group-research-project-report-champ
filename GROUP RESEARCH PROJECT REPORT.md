@@ -3,7 +3,7 @@
 ## Team Members:
 1. BADR KOURDAD
 2. XUE QIAN
-GitHub link：https://github.com/IBS-International-Business-School/group-research-project-report-champ
+3. GitHub link：https://github.com/IBS-International-Business-School/group-research-project-report-champ
 
 
 ## Declaration
