@@ -83,4 +83,4 @@ Entwistle, N. J., & McCune, V. (2004). The conceptual bases of study strategy in
 
 Broadbent, J., & Poon, W. L. (2015). Self-regulated learning strategies & academic achievement in online higher education learning environments: A systematic review. The Internet and Higher Education, 27, 1-13.
 
-Donnelly, R., & Fitzmaurice, M. (2005). Designing modules for learning. In G. O'Neill, S. Moore, & B. McMullin (Eds.), Emerging issues in the practice of university learning and teaching (pp. 99-110). AISHE.
+Donnelly, R., & Fitzmaurice, M. (2005). Designing modules for learning. In G. O'Neill, S. Moore, & B. McMullin (Eds.), Emerging issues in the practice of university learning and teaching (pp. 99-110). AISHE.4
