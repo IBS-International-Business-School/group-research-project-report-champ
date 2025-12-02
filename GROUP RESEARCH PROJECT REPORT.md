@@ -45,7 +45,7 @@ Beyond basic information and open-ended questions, core items employ a five-poin
 The raw data was exported to CSV format and cleaned (anonymized) for analysis. We used descriptive statistics to understand the demographics and comparative analysis to test our hypothesis regarding study habits and grades.
 
 ## Results
-... 
+...1 
 
 ## Discussion
 This study confirms that self-regulation ability and effective review strategies are key predictors of academic achievement. This aligns with Zimmerman's (2002) self-regulated learning theory, emphasizing the importance of proactive planning and monitoring of the learning process. Additionally, positive group learning dynamics correspond with Doo et al.'s (2020) findings that collaborative learning promotes knowledge deepening.
