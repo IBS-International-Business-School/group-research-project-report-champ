@@ -10,19 +10,26 @@ We have retained a complete set of raw data (`raw_survey_data.csv`) and the proc
 
 
 ## 2. Executive Summary
-**Business Problem:**
+### **2.1 Business Problem:**
 In the post-pandemic academic landscape, universities are facing a "productivity paradox": students have access to more digital tools than ever, yet burnout rates are rising and academic performance remains inconsistent. **EduAnalytics Lab** tasked our team with investigating the relationship between study habits, digital tool usage, and academic success to inform future curriculum designs.
 
-**Methodology & Analysis:**
-We conducted a quantitative survey of **34 university students**. To ensure rigour, we implemented a GitHub-based data cleaning workflow to remove invalid responses. We analyzed key variables including study duration, GPA, and stress levels using Python and Excel.
+### **2.2 Methodology & Analysis:**
+We conducted a quantitative survey of **100 university students**. To ensure rigour, we implemented a GitHub-based data cleaning workflow to remove invalid responses. We analyzed key variables including study duration, GPA, and stress levels using Python and Excel.
 
-**Key Findings:**
-1.  **The Efficiency Paradox:** Contrary to the "work harder" myth, students studying **10–15 hours/week** achieved the highest GPA (3.8/4.0), significantly outperforming those studying >15 hours (GPA 3.1).
-2.  **The Hidden Cost:** High study volume (>15 hours) correlates with a critical stress level of **9.2/10**, suggesting cognitive overload.
-3.  **Digital Strategy:** Students using planning tools (Notion) reported higher feelings of control than those relying solely on Generative AI.
+### **2.3 Key Findings:**
+**The Efficiency Paradox:** Contrary to the "work harder" myth, students studying **10–15 hours/week** achieved the highest GPA (3.8/4.0), significantly outperforming those studying >15 hours (GPA 3.1).
+**The Hidden Cost:** High study volume (>15 hours) correlates with a critical stress level of **9.2/10**, suggesting cognitive overload.
+**Digital Strategy:** Students using planning tools (Notion) reported higher feelings of control than those relying solely on Generative AI.
 
-**Recommendation:**
-Universities should shift from providing software access to teaching **"Digital Methodology"**. We recommend implementing mandatory workshops on personal organization to help students maintain the optimal 10–15 hour study window.
+### **2.4 Recommendation:**
+**Integrate Digital Methodology into the Curriculum** 
+Universities should move beyond simply providing access to software tools and instead incorporate systematic instruction in Digital Methodology. This equips students with the conceptual and technical competencies needed to critically evaluate, manage, and apply digital tools in academic and professional contexts. 
+
+**Implement Mandatory Workshops on Personal Productivity** 
+Institutions should introduce compulsory workshops focused on personal productivity, time management, and self-regulation. Such training can help students maintain the optimal 10–15 hour weekly study window identified in our analysis, thereby enhancing academic consistency and performance. 
+
+**Promote Structured Collaborative Learning** 
+Universities should encourage team-based learning through structured group tasks and guided peer collaboration. Evidence from educational research indicates that collaborative environments foster deeper cognitive engagement, strengthen digital literacy, and improve overall academic outcomes.
 
 
 ## 3. Introduction
@@ -106,17 +113,23 @@ While AI usage is high (60%), it does not guarantee success. **Rasheed et al. (2
 
 
 ## 7. Recommendations
-Based on our analysis, we propose the following actionable recommendations for EduAnalytics Lab to present to partner institutions:
+Drawing on the empirical patterns identified in this study, as well as relevant literature on academic performance and digital learning, the following recommendations are proposed for higher education institutions seeking to enhance student wellbeing and learning outcomes.
 
-1.  **Implement "Digital Method Workshops" (Priority: High)**
-    Universities should stop focusing on software training (how to use ChatGPT) and start teaching **Methodology** (how to organize a week). Workshops on "Building a Second Brain in Notion" would help students stay in the efficient 10-15h zone.
+**1. Integrate Digital Methodology into the Curriculum**
 
-2.  **Redesign Student Support for "Overworkers"**
-    Data analytics should be used to identify students logging excessive library hours (>20h). These students should not be praised but flagged as **"High Risk"** for burnout. We recommend offering them specific "Efficiency Coaching" to reduce their hours while maintaining grades.
+ Universities should move beyond software-oriented training and incorporate formal instruction in Digital Methodology, including workflow design, digital organisation, and the critical evaluation of AI-enabled tools. Structured sessions—such as “second brain” systems built in applications like Notion—may support students in maintaining the optimal 10–15 hour weekly study range identified in this research..
 
-3.  **Promote Continuous Assessment**
-    To combat the stress peaks identified in Figure 3, universities should move towards continuous assessment (weekly micro-quizzes) rather than high-stakes final exams, encouraging regular, lower-stress study habits.
+**2. Implement Mandatory Workshops on Productivity and Self-Regulation**
 
+Institutions should provide compulsory workshops addressing personal productivity, time management, and self-regulation. Such interventions can mitigate cognitive overload and reduce the risk of burnout among students who consistently report more than 20 hours of study per week. These students should be classified as a high-risk group and offered tailored support to sustain performance while reducing excessive workload..
+
+**3. Promote Structured Collaborative Learning Environments**
+
+To combat the stress peaks identified in Figure 3, universities should move towards continuous assessment (weekly micro-quizzes) rather than high-stakes final exams, encouraging regular, lower-stress study habits.
+
+**4. Adopt Continuous Assessment Models**
+
+To address the stress peaks associated with end-of-term examinations, universities should consider adopting continuous assessment models. Implementing regular low-stakes assessments—such as weekly micro-quizzes—can encourage consistent learning behaviour, reduce pressure, and support long-term knowledge retention.
 
 ## 8. Reflection on Team Process
 **Application of Agile Methodologies:**
