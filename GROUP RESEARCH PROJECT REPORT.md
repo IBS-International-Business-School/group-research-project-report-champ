@@ -5,12 +5,6 @@
 **Team Members:**
 1. **BADR KOURDAD**
 2. **XUE QIAN**
-
-
-## 1. Declaration of Academic Conduct
-**AI Usage Declaration:**
-Generative AI (Gemini/ChatGPT) was used to brainstorm the report structure, verify Python code syntax for data visualization, and refine the English phrasing of the methodology section. Prompt examples included: *"Analyze the correlation between study hours and GPA using Pandas"* and *"Format references in Harvard style"*. No AI-generated text was included in the final submission without human review, editing, and validation against our actual dataset.
-
 **Data Integrity:**
 We have retained a complete set of raw data (`raw_survey_data.csv`) and the processed analysis file (`cleaned_study_data_final.csv`), both of which are version-controlled and available in this GitHub repository.
 
