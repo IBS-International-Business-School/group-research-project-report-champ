@@ -49,17 +49,17 @@ The rapid digital transformation of higher education has reshaped how students s
 
 **Research Question**
 
-Does the use of digital planning tools and structured time-management strategies correlate with higher academic performance compared to traditional high-volume study &nbsp;approaches?
+Does the use of digital planning tools and structured time-management strategies correlate with higher academic performance compared to traditional high-volume study approaches? More specifically, this research question seeks to investigate whether cognitively efficient study behaviours—such as systematic scheduling, task prioritisation, and the use of organisational technologies—are associated with superior academic outcomes relative to approaches that rely primarily on extended study duration. By examining these contrasting paradigms, the study aims to evaluate whether academic success in contemporary higher-education environments is better predicted by strategic self-regulation practices than by the sheer quantity of study hours invested.
 
 **Research Objective**
 
-To analyse the relationship between study habits, digital tool usage, stress levels, and self-reported GPA among university students.
+To analyse the multifaceted relationship between students’ study habits, patterns of digital tool utilisation, perceived stress levels, and self-reported academic performance. The objective is to determine how these behavioural, technological, and psychological variables interact within contemporary higher-education learning environments, and to assess the extent to which they collectively predict or influence GPA outcomes. This investigation aims to contribute to a deeper empirical understanding of student learning dynamics in increasingly digitised academic contexts.
 
 ## 3. Methodology
 
 ### 3.1 Research Design
 
-A quantitative cross-sectional survey approach was used to capture relationships between study hours, tool usage, stress, and GPA at a single point in time.
+A quantitative cross-sectional survey design was employed to examine the relationships between study hours, digital tool usage, perceived stress levels, and self-reported GPA at a single temporal point. The questionnaire was distributed using a snowball sampling technique, whereby an initial pool of participants was invited to complete the survey and subsequently encouraged to circulate it within their academic and social networks. This recruitment strategy facilitated access to a wider and more heterogeneous subset of the student population, although it also introduced potential sampling biases that are inherent to non-probability referral-based methods.
 
 ### 3.2 Data Collection
 
@@ -73,15 +73,15 @@ A quantitative cross-sectional survey approach was used to capture relationships
 
 ### 3.3 GitHub-Based Data Workflow
 
-Data integrity was a priority. We utilized **GitHub** for version control throughout the data processing pipeline:
+Data integrity was treated as a central methodological priority throughout the project. To ensure transparency, reproducibility, and traceability of all analytical steps, GitHub was employed as the primary version control system across the entire data processing pipeline.
 
-**Raw Data upload:** raw_survey_data.csv committed to a dedicated branch.
+**Raw Data upload:** The initial dataset (raw_survey_data.csv) was committed to a dedicated branch within the repository to preserve an immutable record of all original responses. This separation enabled the team to maintain a clear distinction between unaltered data and subsequent analytical transformations.
 
-**Cleaning Process:** We identified 2 "spam" responses (containing incoherent text) and removed them. We also standardized column headers (e.g., changing *"How many hours..."* to `Study_Hours`) to facilitate Python analysis.
+**Cleaning Process:** A systematic data-cleaning procedure was implemented to enhance dataset reliability. Two responses were identified as “spam” due to incoherent or non-sensical entries and therefore removed. Variable names were standardised to improve readability and ensure compatibility with Python-based analysis (e.g., renaming "How many hours..." to Study_Hours). Further preprocessing included checking for missing values, validating numerical ranges, and harmonising categorical labels.
 
-**Final Dataset:** The cleaned data was saved as `cleaned_study_data_final.csv` and merged into the main branch via a Pull Request.
+**Final Dataset:** The cleaned dataset (cleaned_study_data_final.csv) was committed via a structured Pull Request, allowing peer review before merging into the main branch. This step ensured that all modifications were documented, evaluated, and version-controlled, reducing the risk of data corruption or undocumented changes.
 
-**Tools:** Analysis was performed using **Python (Pandas library)** for statistical correlation and Excel/Matplotlib for data visualization.
+**Tools:** Statistical analyses were conducted using Python, specifically the Pandas library for data manipulation and correlation testing. Visualisations were produced using Excel and Matplotlib to illustrate distribution patterns and variable relationships. This multi-tool analytical approach enabled both computational robustness and clear presentation of findings.
 
 ## 4. Results & Data Analysis
 
