@@ -89,8 +89,8 @@ Data integrity was treated as a central methodological priority throughout the p
 We first analyzed how students allocate their time.
 * **Observation:** The distribution follows a bell curve. The majority (65%) study between 5 and 15 hours.
 * **Outliers:** A minority group (approx. 12%) works excessively, logging more than 15 hours per week.
+* <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/098c247e-6702-435d-b295-420d144a8184" />
 
-![Distribution of Study Hours](graph1.png)
 *Figure 1: Distribution of weekly study hours among respondents (N=34).*
 
 ### 4.2 Key Finding: The Efficiency Paradox
