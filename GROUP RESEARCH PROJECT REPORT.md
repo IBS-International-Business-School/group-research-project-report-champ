@@ -36,7 +36,7 @@ A cross-sectional quantitative survey collected responses from 34 university stu
 
 **Digital Tool Insight:** Students who used structured planning tools (Notion/Calendar) were over-represented in the high-performing group, compared to those relying primarily on generative AI.
 
-### **2.4 Recommendation:**
+### **1.4 Recommendation:**
 
 Integrate Digital Methodology into the curriculum.
 Provide mandatory productivity and self-regulation workshops.
@@ -119,20 +119,24 @@ We examined which tools students use to manage their studies.
 ![Tools Distribution](graph3.png)
 *Figure 4: Distribution of primary digital study tools.*
 
-## 5. Discussion
-### 5.1 Efficiency vs. Effort
-Our findings challenge the traditional assumption that "more time equals better grades." The data indicates that students employing **Self-Regulated Learning (SRL)** strategies—specifically planning and time management—outperform those who simply increase study volume. This aligns with the research of **Broadbent and Poon (2015)**, who demonstrated that time management is a stronger predictor of academic success in online environments than mere participation metrics.
+## **5. Discussion**
+### **5.1 Efficiency vs Effort: Rethinking the Assumption of “More Is Better”**
 
-### 5.2 The Impact of Stress on Cognition
-The collapse in GPA for students working >15 hours (Figure 2) can be directly attributed to the stress levels shown in Figure 3. **Hattie and Timperley (2007)** emphasize the importance of feedback loops in learning; students who are overworked and stressed lack the cognitive capacity to receive and act on feedback, leading to a cycle of high effort but low retention.
+The findings challenge long-standing assumptions in higher-education research suggesting that increased study time linearly contributes to higher academic outcomes. Instead, the data indicates a curvilinear relationship consistent with the law of diminishing returns, whereby moderate workloads (10–15 hours per week) maximise performance, while excessive study (>15 hours) leads to declining GPA. This pattern aligns with the Self-Regulated Learning (SRL) framework, where strategic planning, time-management, and metacognitive monitoring—not sheer effort—drive academic success (Broadbent & Poon, 2015). Thus, our results underscore the growing importance of efficiency-based study paradigms in digital learning environments.
 
-### 5.3 The Role of Digital Tools
-While AI usage is high (60%), it does not guarantee success. **Rasheed et al. (2020)** suggest that without proper pedagogical integration, digital tools can become distractions rather than aids. Our data supports this: students using structural tools (Notion) performed better, aligning with **Gaudreau et al. (2012)** findings on the positive impact of goal-setting implementation.
+### **5.2 Stress, Cognitive Load, and Academic Decline**
 
-### 5.4 Limitations
-* **Sample Size:** N=34 is sufficient for exploratory analysis but small for broad generalization.
-* **Self-Reporting Bias:** As noted by **Credé and Phillips (2011)**, survey data relies on student honesty. Students often overestimate their GPA and underestimate their procrastination due to social desirability bias.
+The sharp rise in stress levels among high-volume learners provides a plausible cognitive explanation for reduced GPA performance. According to cognitive load theory, excessive stress impairs working memory and limits the learner's ability to process, store, and transfer information. This is consistent with Hattie and Timperley’s (2007) findings that students under high cognitive strain are less able to engage in effective feedback loops. In our dataset, students reporting stress levels above 9/10 were disproportionately represented in the lowest GPA category, suggesting that overextension may transform study time from a productive activity into a counterproductive one.
 
+### **5.3 The Mediating Role of Digital Tools in Learning Quality**
+
+While generative AI tools (e.g., ChatGPT) were the most commonly used resources among respondents, their widespread use did not translate directly into higher academic performance. This supports concerns raised by Rasheed et al. (2020), who argue that without pedagogical structure, digital tools may encourage superficial engagement or dependence rather than deep learning. In contrast, students who employed organisational platforms such as Notion or calendar systems demonstrated stronger academic performance and a more balanced workload. This pattern mirrors Gaudreau et al. (2012), who emphasise the importance of implementation intentions in promoting goal progress. Our findings suggest that the type of digital tool—not simply its presence—matters significantly in shaping academic outcomes.
+
+### **5.4 Limitations and Research Constraints**
+Several methodological limitations must be acknowledged. First, the small sample size (N=34) limits generalisability and statistical power. Second, the snowball sampling approach may have introduced referral bias, potentially overrepresenting specific student groups. Third, reliance on self-reported GPA and stress levels raises concerns about accuracy due to social desirability bias, as documented by Credé and Phillips (2011). Additionally, the cross-sectional design captures correlations but cannot establish causal relationships among study habits, stress, and performance. Future research employing longitudinal or experimental designs would help clarify causal pathways and the temporal dynamics of study behaviour.
+
+### **5.5 Implications for Higher Education Research and Practice**
+Despite these limitations, the study contributes to an evolving body of literature recognising that modern learning success depends not only on effort but on the strategic orchestration of behavioural, cognitive, and technological factors. The findings point toward a broader institutional responsibility to equip students with structured self-regulation strategies and digital literacy skills, enabling them to navigate increasingly complex academic environments.
 
 ## 6. Recommendations
 Drawing on the empirical patterns identified in this study, as well as relevant literature on academic performance and digital learning, the following recommendations are proposed for higher education institutions seeking to enhance student wellbeing and learning outcomes.
