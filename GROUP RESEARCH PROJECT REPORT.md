@@ -12,13 +12,13 @@ BADR KOURDAD
 
 XUE QIAN
    
-##**Declaration**
+## **Declaration**
 
 We declare that this report is the original work of our group. Any use of AI tools was restricted to idea generation and structural planning in accordance with Level 2 AI guidelines. All sources have been properly acknowledged using Harvard referencing. Raw data and all analysis files are retained and available upon request.
 
 ## GitHub Repository Link
 All project files, including raw data, code, and documentation, are available at:
-https://github.com/IBS-International-Business-School/group-research-project-report-champ/blob/main/GROUP%20RESEARCH%20PROJECT%20REPORT.md
+https://github.com/IBS-International-Business-School/group-research-project-report-champ
 
 ## 1. Executive Summary
 ### **1.1 Business Problem**
