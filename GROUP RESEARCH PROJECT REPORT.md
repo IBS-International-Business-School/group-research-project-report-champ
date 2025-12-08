@@ -87,8 +87,8 @@ Data integrity was treated as a central methodological priority throughout the p
 
 ### 4.1 Demographic Profile: Study Intensity
 We first analyzed how students allocate their time.
-* **Observation:** The distribution follows a bell curve. The majority (65%) study between 5 and 15 hours.
-* **Outliers:** A minority group (approx. 12%) works excessively, logging more than 15 hours per week.
+* **Observation:** The distribution follows a bell curve. The majority (36%) study between 10 and 15 hours.
+* **Outliers:** A minority group (approx. 10%) works excessively, logging more than 15 hours per week.
 <img width="1628" height="938" alt="Picture1" src="https://github.com/user-attachments/assets/153eb627-e682-4a45-912f-3c46a1add31a" />
 
 *Figure 1: Distribution of weekly study hours among respondents (N=100).*
@@ -113,12 +113,14 @@ To explain the drop in GPA for hard workers, we analyzed reported stress levels 
 
 ### 4.4 Digital Tools Usage
 We examined which tools students use to manage their studies.
-* **Dominance of AI:** 60% of respondents primarily use Generative AI (ChatGPT).
-* **The Planner Minority:** Only 35% prioritize Planning Tools (Notion/Calendar).
+* **Dominance of AI:** 70% of respondents primarily use Generative AI (ChatGPT).
+* **The Planner Minority:** Only 12% prioritize Planning Tools (Notion/Calendar).
+  ** The rest are Neutral**
 * *Insight:* Cross-referencing with GPA data, the "Planner" group is over-represented in the high-performing "10-15h" segment.
 
-![Tools Distribution](graph3.png)
-*Figure 4: Distribution of primary digital study tools.*
+<img width="1349" height="895" alt="Picture4" src="https://github.com/user-attachments/assets/01fd98aa-3c03-4a1e-9ad6-801d947b1cec" />
+
+*Figure 4: Distribution of  digital study tools.*
 
 ## **5. Discussion**
 ### **5.1 Efficiency vs Effort: Rethinking the Assumption of “More Is Better”**
