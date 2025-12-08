@@ -185,4 +185,4 @@ Regular stand-ups facilitated timely communication, while sprint retrospectives 
 
 **Appendices:**
 * **Appendix A:** Raw Data (Available in `raw_survey_data.csv` in this repository).
-* **Appendix B:** Cleaned Dataset (Available in `cleaned_study_data_final.csv` in this repository).
+* **Appendix B:** Cleaned Dataset (Available in `survey_data_cleaned.csv` in this repository).
