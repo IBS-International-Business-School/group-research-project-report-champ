@@ -63,7 +63,7 @@ A quantitative cross-sectional survey design was employed to examine the relatio
 
 ### 3.2 Data Collection
 
-**Instrument:** Google Forms questionnaire, 20 items covering study habits, demographics, and psychometric indicators.
+**Instrument:** Google Forms questionnaire, 21 items covering study habits, demographics, and psychometric indicators.
 
 **Sampling:** Convenience sampling of higher-education students (BA–PhD).
 
