@@ -67,9 +67,9 @@ A quantitative cross-sectional survey design was employed to examine the relatio
 
 **Sampling:** Convenience sampling of higher-education students (BA–PhD).
 
-**Sample Size:** N = 34 valid responses.
+**Sample Size:** N = 100 valid responses.
 
-**Timeline:** Data was collected in November 2025.
+**Timeline:** Data was collected from November to December 2025.
 
 ### 3.3 GitHub-Based Data Workflow
 
@@ -91,11 +91,11 @@ We first analyzed how students allocate their time.
 * **Outliers:** A minority group (approx. 12%) works excessively, logging more than 15 hours per week.
 
 ![Distribution of Study Hours](graph1.png)
-*Figure 1: Distribution of weekly study hours among respondents (N=34).*
+*Figure 1: Distribution of weekly study hours among respondents (N=100).*
 
 ### 4.2 Key Finding: The Efficiency Paradox
 We tested the hypothesis that study hours differ by GPA. The results were counter-intuitive.
-* **The "Sweet Spot":** Students studying **10–15 hours** reported the highest average GPA (3.8).
+* **The "Sweet Spot":** Students studying **10–15 hours** reported the highest average GPA (3.6).
 * **The Drop-off:** Students studying **>15 hours** saw their average GPA drop to **3.1**.
 This visually demonstrates the law of diminishing returns in academic effort.
 
@@ -105,7 +105,7 @@ This visually demonstrates the law of diminishing returns in academic effort.
 ### 4.3 The Cost of Overworking: Stress Analysis
 To explain the drop in GPA for hard workers, we analyzed reported stress levels (scale 1-10).
 * **Correlation:** There is a strong linear correlation between hours worked and stress.
-* **Critical Level:** While the 10-15h group has manageable stress (6.0), the >15h group reports an alarming average stress level of **9.2/10**.
+* **Critical Level:** While the 10-15h group has manageable stress (6.2), the >15h group reports an alarming average stress level of **9.2/10**.
 
 ![Stress Curve](graph4.png)
 *Figure 3: Stress levels skyrocket for students studying more than 15 hours.*
