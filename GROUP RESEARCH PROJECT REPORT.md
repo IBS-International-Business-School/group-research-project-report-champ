@@ -26,11 +26,11 @@ https://github.com/IBS-International-Business-School/group-research-project-repo
 Post-pandemic universities face a “productivity paradox”: despite increased access to digital study tools, academic inconsistency and burnout remain significant challenges. EduAnalytics Lab commissioned this project to investigate how study habits—particularly the integration of digital tools and time-management strategies—influence academic success.
 
 ### **1.2 Methodology**
-A cross-sectional quantitative survey collected responses from 34 university students. Data cleaning and validation were conducted using GitHub-based workflows. Statistical analysis (correlation, descriptive metrics, visualisation) was performed using Python (Pandas) and Excel.
+A cross-sectional quantitative survey collected responses from 100 university students. Data cleaning and validation were conducted using GitHub-based workflows. Statistical analysis (correlation, descriptive metrics, visualisation) was performed using Python (Pandas) and Excel.
 
 ### **1.3 Key Findings**
 
-**The Efficiency Paradox:** Students studying 10–15 hours weekly reported the highest GPA (3.8).
+**The Efficiency Paradox:** Students studying 10–15 hours weekly reported the highest GPA (3.6).
 
 **Stress as a Limiting Factor:** Students exceeding 15 hours of study displayed critically high stress (9.2/10), explaining the observed decline in GPA.
 
