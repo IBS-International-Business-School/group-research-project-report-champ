@@ -89,8 +89,8 @@ Data integrity was treated as a central methodological priority throughout the p
 We first analyzed how students allocate their time.
 * **Observation:** The distribution follows a bell curve. The majority (65%) study between 5 and 15 hours.
 * **Outliers:** A minority group (approx. 12%) works excessively, logging more than 15 hours per week.
+<img width="1628" height="938" alt="Picture1" src="https://github.com/user-attachments/assets/153eb627-e682-4a45-912f-3c46a1add31a" />
 
-![Distribution of Study Hours](graph1.png)
 *Figure 1: Distribution of weekly study hours among respondents (N=100).*
 
 ### 4.2 Key Finding: The Efficiency Paradox
@@ -98,16 +98,17 @@ We tested the hypothesis that study hours differ by GPA. The results were counte
 * **The "Sweet Spot":** Students studying **10–15 hours** reported the highest average GPA (3.6).
 * **The Drop-off:** Students studying **>15 hours** saw their average GPA drop to **3.1**.
 This visually demonstrates the law of diminishing returns in academic effort.
+<img width="1841" height="1042" alt="Picture2" src="https://github.com/user-attachments/assets/6463e2e0-3087-4350-b690-e73e382e21dc" />
 
-![GPA vs Hours](graph2.png)
 *Figure 2: The Efficiency Paradox - Grades peak at 10-15 hours and decline thereafter.*
 
 ### 4.3 The Cost of Overworking: Stress Analysis
 To explain the drop in GPA for hard workers, we analyzed reported stress levels (scale 1-10).
 * **Correlation:** There is a strong linear correlation between hours worked and stress.
-* **Critical Level:** While the 10-15h group has manageable stress (6.2), the >15h group reports an alarming average stress level of **9.2/10**.
+* **Critical Level:** While the 10-15h group has manageable stress (6.1), the >15h group reports an alarming average stress level of **9.2/10**.
 
-![Stress Curve](graph4.png)
+<img width="1820" height="1049" alt="Picture3" src="https://github.com/user-attachments/assets/6173cea8-b9da-4df5-95b0-8086ea91a7b0" />
+
 *Figure 3: Stress levels skyrocket for students studying more than 15 hours.*
 
 ### 4.4 Digital Tools Usage
