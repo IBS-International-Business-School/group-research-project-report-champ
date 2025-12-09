@@ -198,6 +198,11 @@ In a world obsessed with AI and speed, our findings suggest that the old-fashion
 
 ## **Appendices**
 
-* **Appendix A:** Survey Questionnaire 
+## **Appendices**
+
+* **Appendix A: Survey Questionnaire**
+The data collected in this research was gathered using the following online instrument:
+
+👉 [Click here to view the Google Form Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScRzhAviRfp85oceeVOFlmKVNbpbCsb-YC7wac2P-LqPSgN1g/viewform?usp=header)
 * **Appendix B:** Python Analysis Script (Available in the `code/` folder of the GitHub repository)
 * **Appendix C:** Raw Data Sample (First 5 rows of `survey_data_cleaned.csv`)
