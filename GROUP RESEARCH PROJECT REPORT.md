@@ -203,6 +203,9 @@ In a world obsessed with AI and speed, our findings suggest that the old-fashion
 * **Appendix A: Survey Questionnaire**
 The data collected in this research was gathered using the following online instrument:
 
-👉 [Click here to view the Google Form Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScRzhAviRfp85oceeVOFlmKVNbpbCsb-YC7wac2P-LqPSgN1g/viewform?usp=header)
-* **Appendix B:** Python Analysis Script (Available in the `code/` folder of the GitHub repository)
+ [Click here to view the Google Form Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScRzhAviRfp85oceeVOFlmKVNbpbCsb-YC7wac2P-LqPSgN1g/viewform?usp=header)
+* **Appendix B: Python Analysis Script**
+The complete Python script used to clean the data and generate the visualizations is available in this repository:
+
+ [Click here to view the analysis.py script](code/analysis.py)
 * **Appendix C:** Raw Data Sample (First 5 rows of `survey_data_cleaned.csv`)
