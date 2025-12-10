@@ -44,23 +44,20 @@ Universities should stop pushing students to just "study more." Instead, they ne
 
 ## 2. Introduction
 
-Education has changed rapidly in the last few years. Today, a university student has access to incredible tools—from AI assistants like ChatGPT to complex planning apps like Notion. Theoretically, this should make studying easier and faster. Yet, in our experience, many students seem more stressed and overwhelmed than ever before.
-
-This project was born from a simple observation within our own peer group: there doesn't seem to be a direct link between the number of hours spent in the library and the final grade received. We have all seen students who "live" in the library but struggle to pass, while others seem to work less but achieve higher marks. This disconnect suggests that **how** we study matters far more than **how much**.
+Education has changed rapidly in recent years, giving university students powerful tools such as AI assistants and digital planners. In theory, these should make studying easier, yet many students appear more stressed than ever. Within our peer group, we noticed no clear link between hours spent studying and final grades: some students work long hours with limited results, while others study less and achieve higher marks. This suggests that how students study may matter more than how much.
 
 **Research Question**
 
-Our main goal is to answer the following question:  
-Does the use of structured digital planning tools (like calendars and task managers) correlate with higher academic performance compared to the traditional method of simply increasing study hours?
+Does the use of structured digital planning tools correlate with higher academic performance compared to simply increasing study hours?
 
 **Research Objective**
 
 To answer this, we focused on three specific areas:
-**1. The "Volume" Myth:** We want to verify if studying more hours actually leads to a higher GPA, or if there is a limit where it becomes counterproductive.
-**2. The Stress Cost:** We aim to measure the relationship between long study hours and reported stress levels.
-**3. Tool Effectiveness:** We want to see if students who plan their weeks (using digital tools) perform better than those who rely on last-minute cramming or AI assistance.
+1. Examine whether more study hours actually improve GPA or become counterproductive.
+2. Measure how long study hours relate to stress levels.
+3. Evaluate whether students using digital planning tools perform better than those who cram or rely mainly on AI.
 
-By analyzing these habits, we hope to move away from the idea of "working hard" and understand what it really means to "work smart" in a modern university environment.
+Our aim is to understand what it means to “work smart” in modern university life.
 
 ## 3. Methodology
 
