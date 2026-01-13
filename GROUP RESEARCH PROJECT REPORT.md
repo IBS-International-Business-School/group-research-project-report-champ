@@ -4,7 +4,7 @@
 
 **Module:** SKIB353_25A
 
-**Date:** January 12, 2026
+**Date:** January 12th, 2026
 
 **Team Members:**
 
