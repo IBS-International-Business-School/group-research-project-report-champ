@@ -2,9 +2,9 @@
   Group Research Project Report : Study Habits and Academic Performance: A Data-Driven Analysis
 </h1>
 
-**Module:** Research Methods for Business
+**Module:** SKIB353_25A
 
-**Date:** Jannury 12, 2026
+**Date:** January 12, 2026
 
 **Team Members:**
 
