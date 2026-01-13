@@ -1,10 +1,10 @@
 <h1 align="center">
-  Group Research Project Report : Study Habits & Academic Performance
+  Group Research Project Report : Study Habits and Academic Performance: A Data-Driven Analysis
 </h1>
 
 **Module:** Research Methods for Business
 
-**Date:** December 2, 2025
+**Date:** Jannury 12, 2026
 
 **Team Members:**
 
@@ -14,7 +14,11 @@ XUE QIAN
    
 ## **Declaration**
 
-We declare that this report is the original work of our group. Any use of AI tools was restricted to idea generation and structural planning in accordance with Level 2 AI guidelines. All sources have been properly acknowledged using Harvard referencing. Raw data and all analysis files are retained and available upon request.
+ChatGPT (GPT-5) was used to brainstorm themes and structure for this group research project report on the topic of Study Habits and Academic Performance.
+Prompt example: “Help structure a survey-based research report examining study habits and academic performance for a data analytics module.
+No AI-generated text was included verbatim in the final submission. All analysis, interpretation, and written content were independently produced by the student group.
+Accessed: 13 January 2026. Available at: https://chat.openai.com/
+We confirm that a complete set of raw data has been retained, including the original survey questionnaire, downloaded survey records, and data analysis files, in accordance with the module’s academic conduct and data retention requirements.
 
 ## GitHub Repository Link
 All project files, including raw data, code, and documentation, are available at:
@@ -23,178 +27,128 @@ https://github.com/IBS-International-Business-School/group-research-project-repo
 ## 1. Executive Summary
 ### **Project Overview**
 
-As university students, we constantly hear that we need to "work harder" to succeed. But with all the digital tools available today—from ChatGPT to Notion planners—we wanted to find out if working *longer* actually means working *better*. This project investigates the link between study hours, stress, and grades (GPA).
+This project examines the relationship between students’ study habits and academic performance in higher education. As universities increasingly adopt data-driven approaches to enhance learning outcomes, understanding which learning behaviours have the greatest impact on student success is essential. The study was conducted within the context of EduAnalytics Lab’s mission to inform academic support services and curriculum design through empirical research.
 
 ### **What We Did**
-We surveyed 100 students to track their habits. We used GitHub to manage our data and ensure our analysis was clean and reproducible.
+A survey-based research approach was used to collect data from 169 students across different levels of study. The questionnaire measured five key study habit constructs: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics, alongside self-reported academic performance (GPA). After data cleaning and preparation, including Likert-scale transformation, reverse coding, and construct aggregation, Pearson correlation and multiple regression analyses were conducted to evaluate the relationships between study habits and academic performance.
 
 ### **Key Findings**
 
-The results were surprising. We found that studying more isn't always the answer.
-
-**The Limit:** Students who study **10–15 hours a week** actually get the best grades.
-
-**The Burnout:** Those who study more than 15 hours saw their grades drop and their stress levels spike to a dangerous **9.2/10**.
-
-**Tools Matter:** The top students mostly use planning apps (Calendar/Notion) rather than just relying on AI to do the work for them.
+The analysis revealed that while all study habit constructs were positively correlated with academic performance, only digital tool usage and time management demonstrated statistically significant unique effects on GPA when controlling for other variables. Digital tool usage emerged as the strongest predictor of academic performance, highlighting the importance of purposeful and effective engagement with digital learning technologies.
 
 ### **Recommendation:**
 
-Universities should stop pushing students to just "study more." Instead, they need to teach us **how to organize**. Our recommendation is to introduce workshops on digital workflow and time management to help students stay in that efficient 10–15 hour zone.
+The study recommends that higher education institutions prioritise the development of students’ digital learning competencies and time management skills through targeted academic support initiatives. Rather than relying on generic study skills programmes, universities should adopt focused, data-informed interventions that address the learning behaviours most strongly associated with academic success.
 
 ## 2. Introduction
+**Background and Context**
 
-Education has changed rapidly in recent years, giving university students powerful tools such as AI assistants and digital planners. In theory, these should make studying easier, yet many students appear more stressed than ever. Within our peer group, we noticed no clear link between hours spent studying and final grades: some students work long hours with limited results, while others study less and achieve higher marks. This suggests that how students study may matter more than how much.
+Academic performance is influenced by a range of behavioural, cognitive, and contextual factors, among which students’ study habits play a central role. In higher education, students are expected to manage increasing levels of autonomy, workload, and digital engagement, making effective study behaviours essential for academic success. As universities continue to expand flexible and technology-mediated learning environments, understanding how different study habits relate to academic performance has become an important concern for educators and academic support services.
 
-**Research Question**
+**Research Motivation**
 
-Does the use of structured digital planning tools correlate with higher academic performance compared to simply increasing study hours?
+The objective of this study is to examine the relationship between key study habit constructs and academic performance using a data-driven approach. Specifically, the study investigates five dimensions of study habits: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics. By applying correlation and multiple regression analyses, the research aims to identify which study habits are most strongly associated with academic performance and which demonstrate unique predictive value when controlling for overlapping behaviours.
 
-**Research Objective**
+**Structure of the Report**
 
-To answer this, we focused on three specific areas:
-1. Examine whether more study hours actually improve GPA or become counterproductive.
-2. Measure how long study hours relate to stress levels.
-3. Evaluate whether students using digital planning tools perform better than those who cram or rely mainly on AI.
-
-Our aim is to understand what it means to “work smart” in modern university life.
+The remainder of this report is organised as follows. The next section outlines the research methodology, including survey design, data collection, and analytical methods. This is followed by the presentation of results from the correlation and regression analyses. The discussion section interprets the findings in relation to existing literature and addresses limitations. Finally, the report concludes with practical recommendations and a reflection on the team’s collaborative research process.
 
 ## 3. Methodology
 
 ### 3.1 Research Design
 
-We chose a **quantitative cross-sectional survey**. We wanted to capture a snapshot of current student habits to see if we could find statistical patterns. We didn't have the time to track students over a whole year (longitudinal), so a snapshot was the most practical approach for this semester.
+A quantitative, survey-based research design was employed to examine the relationship between students’ study habits and academic performance. This approach was selected to enable systematic data collection and statistical analysis across multiple learning constructs.
 
 ### 3.2 Data Collection
 
-We used a **convenience sampling** method. We created a Google Form with 21 questions covering demographics, study habits, stress levels (on a scale of 1-10), and self-reported GPA.
-**Distribution:** We shared the link via WhatsApp student groups, Discord servers, and LinkedIn.
-**Sample Size:** We received 102 responses. After cleaning, we kept **100 valid responses**.
-**Bias Note:** Since we distributed this mostly within our own network (Business and Management students), our sample might be biased towards students who are already somewhat familiar with digital tools.
+Data were collected through an online questionnaire distributed to university students. Participation was voluntary, and the survey was conducted anonymously. No personally identifiable information was collected.
 
-### 3.3 GitHub-Based Data Workflow
+The questionnaire consisted of demographic items, self-reported academic performance (GPA category), and Likert-scale items measuring study habits. Responses were recorded using a five-point Likert scale ranging from 1 (Strongly Disagree) to 5 (Strongly Agree).
 
-To meet the "Agile" and technical requirements of this project, we didn't just email Excel files back and forth. We used GitHub to act as a central source of truth.
+### 3.3 Data Preparation
 
-1.  **Raw Data Storage:** We uploaded the original CSV from Google Forms to a folder named `data/raw`. This file was set to "read-only" in our minds—we never touched it directly to ensure we didn't accidentally delete data.
-2.  **Data Cleaning:** We wrote a Python script (documented in `analysis.py` in the repo) to clean the data. This was necessary because some people answered "10-15 hours" while others wrote "about 12". The script standardized these into numbers we could actually plot.
-3.  **Version Control:** When one of us wanted to try a new graph, we created a new **Branch** on GitHub. This prevented us from breaking the main report if the code didn't work. We used **Pull Requests** to review each other's changes before merging them into the final `main` branch.
+Data cleaning was conducted in multiple stages. System-generated metadata were removed, variables were standardised, and Likert-scale responses were converted to numeric values. One reverse-coded item related to procrastination was recoded to ensure directional consistency. Composite constructs were then created by averaging relevant items for each study habit category. GPA was converted from categorical responses into an ordinal numeric variable ranging from 1 to 4.
 
-This workflow was a bit difficult to learn at first, but it saved us a lot of panic later on because we always had a backup of previous versions.
+### 3.4 Analytical Methods
 
-## 4. Results & Data Analysis
+Descriptive statistics, Pearson correlation analysis, and multiple linear regression were used to analyse the data. Cronbach’s alpha was calculated to assess the internal consistency of each construct. All analyses were conducted using Python-based statistical tools.
 
-After running our cleaned data through Python (using the Pandas and Seaborn libraries), three major patterns emerged that answered our research question.
+## 4. Results 
 
-### **4.1 The Distribution of Effort**
-First, we looked at how much students are actually working
+### **4.1 Correlation Analysis**
 
-<img width="1628" height="938" alt="Picture1" src="https://github.com/user-attachments/assets/153eb627-e682-4a45-912f-3c46a1add31a" />
-
-*Figure 1: Distribution of weekly study hours among respondents (N=100).*
-
-Most students in our sample (about 36%) fall into the "moderate" category, studying between 10 and 15 hours a week outside of class. However, we noticed a significant tail of "over-workers"—students logging 20, 25, or even 30+ hours. We initially assumed these students would be the top performers.
-
-### 4.2 The Efficiency Paradox
-When we mapped these hours against GPA (on a 4.0 scale), the results surprised us. We expected a straight line going up (more hours = better grades). Instead, we got a curve.
-This visually demonstrates the law of diminishing returns in academic effort.
-<img width="1841" height="1042" alt="Picture2" src="https://github.com/user-attachments/assets/6463e2e0-3087-4350-b690-e73e382e21dc" />
-
-*Figure 2: The Efficiency Paradox - Grades peak at 10-15 hours and decline thereafter.*
-
-**Group A (<10 hours):** Average GPA of 2.9. These students likely aren't putting in enough effort to master the material.
-
-**Group B (10-15 hours):** The "Sweet Spot." Average GPA of **3.6**. These students seem to balance effort with understanding.
-
-**Group C (>15 hours):** The "Burnout Zone." Average GPA drops to **3.1**.
-
-This visually demonstrates the law of diminishing returns. After 15 hours, every extra hour spent studying doesn't just stop adding value—it actually seems to hurt performance.
+Pearson correlation analysis revealed positive relationships between all study habit constructs and academic performance. Digital tool usage demonstrated the strongest correlation with GPA (r = 0.38), while time management, self-regulated learning, revision strategies, and group study dynamics exhibited weaker positive correlations (r ≈ 0.20–0.22). Strong intercorrelations were observed among the study habit constructs themselves, indicating that effective learning behaviours tend to co-occur.
+<img width="994" height="844" alt="image" src="https://github.com/user-attachments/assets/e900b7ac-2a4a-453d-a9d3-7e6a476833e5" />
 
 
-### 4.3 The Cost of Overworking: Stress Analysis
-To explain the drop in GPA for hard workers, we analyzed reported stress levels (scale 1-10).
+### **4.2 Multiple Regression Analysis**
 
-<img width="1820" height="1049" alt="Picture3" src="https://github.com/user-attachments/assets/6173cea8-b9da-4df5-95b0-8086ea91a7b0" />
+A multiple linear regression analysis was conducted to assess the unique predictive power of each study habit construct. The overall model was statistically significant, F(5,163) = 6.98, p < .001, explaining 17.6% of the variance in GPA (R² = .176, adjusted R² = .151).
 
-*Figure 3: Stress levels skyrocket for students studying more than 15 hours.*
+Digital tool usage (β = .507, p < .001) emerged as the strongest predictor of academic performance, followed by time management (β = .253, p = .040). Self-regulated learning, revision strategies, and group study dynamics did not show statistically significant unique effects when controlling for other variables.
+<img width="1169" height="819" alt="image" src="https://github.com/user-attachments/assets/a00b3e27-5976-4021-8c10-c965addb4031" />
 
-The correlation here was alarming. The 10-15 hour group reported manageable stress (average 6.1/10). But the students studying over 15 hours reported an average stress level of **9.2/10**. At this level of stress, cognitive function drops. It’s hard to retain information when you are in a state of panic or exhaustion. This explains the GPA drop: they are working harder, but their brains are too tired to absorb the information effectively.
-
-### 4.4 Digital Tools Usage
-Finally, we checked *how* they studied. We categorized students by their primary tool..
-
-<img width="1349" height="895" alt="Picture4" src="https://github.com/user-attachments/assets/01fd98aa-3c03-4a1e-9ad6-801d947b1cec" />
-
-*Figure 4: Distribution of  digital study tools*
-
-We found that students in the high-performing "Sweet Spot" (10-15h) were twice as likely to use **Structured Planning Tools** (like Notion, Google Calendar, or physical planners) compared to the other groups. In contrast, the group studying >15 hours relied heavily on **Generative AI** (ChatGPT) or had no specific system. This suggests that high performers use tools to *manage their time*, while lower performers might be using AI to try and catch up on work they haven't planned for.
 
 ## **5. Discussion**
 
-Our findings challenge the traditional "hustle culture" often seen in business schools. The data suggests that success isn't about raw effort; it's about **Strategic Regulation**
+### **5.1 Key finds**
 
-### **5.1 Efficiency vs Effort**
+a) The findings indicate that while multiple study habits are associated with academic performance, only certain behaviours retain predictive power when examined simultaneously.
 
-The most significant insight from our project is the "Efficiency Paradox." It aligns with the theory of Self-Regulated Learning (SRL). According to Broadbent and Poon (2015), students who succeed are not the ones who read the most pages, but the ones who plan *when* to read and monitor their own understanding. Our data backs this up: the 10-15 hour group isn't lazy; they are efficient. They likely stop studying when they hit a point of diminishing returns, whereas the >15 hour group pushes through, achieving less with more effort.
+b) Digital tool usage emerged as the most influential predictor of GPA, suggesting that effective engagement with digital learning technologies plays a central role in supporting academic success.
 
-### **5.2 The Cognitive Load of Stress**
+c) This result aligns with prior research emphasising the growing importance of digital competence in contemporary learning environments.
 
-The correlation between high stress (9.2/10) and lower GPA in our heavy-studier group is consistent with Cognitive Load Theory. Hattie and Timperley (2007) argue that when a learner is under high cognitive strain or anxiety, their "working memory" gets clogged. They can't process new information because they are too busy managing their stress. In our study, the students working 25+ hours are likely "rereading" notes without actually absorbing them—a phenomenon often called "passive studying." They feel productive because they are tired, but the learning isn't happening.
+### **5.2 Role of Time Management**
 
-### **5.3 The Role of Digital Tools**
+a) Time management demonstrated a statistically significant independent effect on GPA, reinforcing its role as a foundational self-management skill in higher education.
 
-It was interesting to see that ChatGPT usage didn't guarantee good grades. In fact, heavy reliance on AI was common in the "overworked" group. This mirrors the findings of Rasheed et al. (2020), who warn that digital tools can sometimes create a false sense of competence. A student might use ChatGPT to summarize a lecture and *think* they understand it, but they haven't done the deep cognitive work required to retain it. On the other hand, the high performers used tools like Notion. This supports Gaudreau et al. (2012), who discuss "implementation intentions." Planning *when* and *how* to do a task (using a calendar) is statistically more effective than just trying to do the task with an AI assistant at the last minute.
+b) This finding supports existing literature that identifies effective time management as critical in contexts characterised by high autonomy and flexible learning structures.
 
-### **5.4 Limitations and Bias**
-We have to be honest about the flaws in our research.
-1.  **Sample Size:** We only had 100 people. To be truly scientific, we would need 500+ across different universities.
-2.  **Self-Reporting:** We asked people for their GPA and stress. People often lie about their grades (making them higher) or their stress (exaggerating it). Credé and Phillips (2011) note that self-reported data always has a "social desirability bias."
-3.  **Causality:** We found a correlation (more hours = more stress), but we can't prove causation. Maybe students who are *already* stressed tend to study more because they are anxious, rather than the studying *causing* the stress.
+### **5.3 Non-Significant Predictors and Behavioural Overlap**
+
+a) Self-regulated learning, revision strategies, and group study dynamics did not independently predict GPA in the regression model, despite their positive correlations with academic performance.
+
+b) This pattern likely reflects the interconnected nature of learning behaviours and the presence of overlapping effects among constructs when analysed simultaneously.
+
+### **5.4 Methodological Implications and Limitations**
+
+a) From a methodological perspective, the results highlight the value of multivariate analysis in educational research.
+
+b) While correlation analysis identifies general associations, regression analysis provides deeper insight into the relative importance of predictors.
+
+c) Limitations of the study include the use of self-reported GPA and the cross-sectional research design, which restricts causal inference. the stress.
 
 ## 6. Recommendations
-Based on the clear drop-off in performance after 15 hours of study, we propose the following actions for both students and universitiess.
 
-**1. Teach "Workflow" not just "Work"**
+**1. Prioritise digital learning competencies**
 
-Universities usually teach subjects (Marketing, Finance) but they rarely teach *how* to study those subjects. We recommend a mandatory "Digital Methodology" workshop in the first year. This shouldn't be about how to use Word or Excel, but how to build a "Second Brain" in Notion or how to use Time-Blocking in Outlook. If students learn to plan, they can stay in the 10-15 hour "Sweet Spot.".
+Higher education institutions should prioritise the development of students’ digital learning competencies. Training initiatives should emphasise the strategic use of digital tools for organisation, learning support, and academic planning, rather than focusing solely on technology adoption.
 
-**2. The "Red Flag" System for Advisors**
+**2. Embed time management support in early-stage programmes**
 
-Since we know that stress hits 9/10 when study hours exceed 15, academic advisors should use this as a metric. If a student reports spending all their free time in the library, it shouldn't be seen as dedication—it should be seen as a risk of burnout. Advisors should intervene to help these students prioritize rather than encouraging them to "keep pushing".
+Time management support should be integrated into early-stage academic programmes, particularly for first-year students. Interventions such as structured planning tools and workload management workshops may help students translate learning intentions into effective and sustainable study behaviours.
 
-**3. Shift to Low-Stakes Continuous Assessment**
+**3. Adopt integrated academic support approaches**
 
-The "binge-study" behavior often happens before big exams. To flatten the curve of stress, modules should rely more on weekly micro-quizzes. This forces students to study a little bit every week (staying in the healthy range) rather than cramming 30 hours in one week, which our data proves is ineffective.
+Academic support services should adopt integrated approaches that recognise the interconnected nature of learning behaviours. Rather than addressing study habits in isolation, data-informed targeting of support resources may improve both the efficiency and effectiveness of student success initiatives.
 
 ## 7. Reflection on Team Process
 
-Working on this project gave us a real crash course in **Agile Methodology**. It wasn't always smooth, but the structure helped us.
+Throughout the project, the team adopted a lean and agile approach to collaboration. The work was organised into short sprints aligned with key milestones, including survey design, data analysis, and report writing. Informal stand-up meetings facilitated progress updates and issue resolution, while brief retrospectives supported continuous improvement.
 
-**Sprint Planning:**
+GitHub served as the central collaboration platform. Branching was used to develop different components in parallel, pull requests enabled peer review and quality control, and GitHub Issues supported task tracking and transparency. Evidence of collaboration is demonstrated through the GitHub commit history, branch structure, and pull request records.
 
-We broke the project into three "Sprints":
+This workflow enhanced adaptability, accountability, and shared ownership of the project outcome.
 
-**Sprint 1:** Survey design and data gathering.
-
-**Sprint 2:** Data cleaning and Python analysis.
-
-**Sprint 3:** Writing and report formatting.
-
-This helped us avoid the usual student group project panic where everyone leaves everything until the night before. We knew exactly what had to be done each week.
-
-**Using GitHub:**
-
-Honestly, GitHub was a challenge. We had a few "merge conflicts" where two of us edited the `Analysis` section at the same time and couldn't save the file. However, this forced us to communicate better. We started using the "Issues" tab to assign tasks (e.g., "Fix the bar chart colors") so we didn't step on each other's toes. By the end, having a version history was a lifesaver when we accidentally deleted a paragraph and could restore it.
-
-**Collaboration:**
-
-We held short "stand-up" meetings on Discord every two days. Instead of hour-long meetings that go nowhere, we just answered three questions: "What did I do?", "What will I do?", and "Am I stuck?". This kept the momentum going and ensured the workload was balanced.
 ## 8.**Conclusion**
-This research project started with a simple question: does working harder mean doing better? The data gave us a complicated but clear answer: **No.**
+This study explored the relationship between students’ study habits and academic performance using a survey-based, data-driven approach. The findings indicate that although multiple study habits are positively associated with academic performance, digital tool usage and time management emerge as the most influential predictors of GPA when examined simultaneously.
 
-There is a clear ceiling to human productivity in an academic setting. Our study identified a "Sweet Spot" of 10-15 hours of study per week where GPA is maximized. Beyond this, the toxic combination of stress and cognitive overload causes performance to drop, creating an "Efficiency Paradox."
+These results highlight that learning behaviours do not contribute equally to academic success and that overlapping effects exist among different study habits. In particular, the strong role of digital tool usage underscores the growing importance of effective engagement with technology in contemporary higher education, while the significance of time management reinforces its role as a foundational self-management skill.
 
-In a world obsessed with AI and speed, our findings suggest that the old-fashioned skill of **planning** is more valuable than ever. The students who succeed aren't the ones asking ChatGPT to write their essays; they are the ones using calendars to protect their time and mental health. For universities and businesses alike, the message is clear: we need to stop rewarding "busyness" and start teaching strategy.
+From a practical perspective, the study suggests that higher education institutions may benefit from prioritising targeted academic support initiatives focused on digital learning competencies and time management, rather than relying solely on generic study skills training.
+
+Key limitations include the use of self-reported GPA and the cross-sectional design, which restrict causal interpretation. Future research could extend this work through longitudinal or experimental approaches to further examine the impact of specific learning interventions.
 
 ## 9. References
 1.  **Broadbent, J. and Poon, W.L. (2015)** ‘Self-regulated learning strategies & academic achievement in online higher education learning environments: A systematic review’, *The Internet and Higher Education*, 27, pp. 1–13.
@@ -209,10 +163,10 @@ In a world obsessed with AI and speed, our findings suggest that the old-fashion
 
 * **Appendix A: Survey Questionnaire**
 The data collected in this research was gathered using the following online instrument:
+[https://v.wjx.cn/vm/wpb6PMl.aspx#]
 
- [Click here to view the Google Form Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScRzhAviRfp85oceeVOFlmKVNbpbCsb-YC7wac2P-LqPSgN1g/viewform?usp=header)
-* **Appendix B: Python Analysis Script**
-The complete Python script used to clean the data and generate the visualizations is available in this repository:
+* **Appendix B: Skills_for_Data_Analysts**
+The complete Jupyter Notebook used for data cleaning, analysis, and visualisation is available in this repository.
 
- [Click here to view the analysis.py script](code/analysis.py)
-* **Appendix C:** Raw Data Sample (First 5 rows of `survey_data_cleaned.csv`)
+* **Appendix C:** raw _data
+* **Appendix D:** clean_data_final
