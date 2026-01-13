@@ -14,10 +14,10 @@ XUE QIAN
    
 ## **Declaration**
 
-ChatGPT (GPT-5) was used to brainstorm themes and structure for this group research project report on the topic of Study Habits and Academic Performance.
-Prompt example: “Help structure a survey-based research report examining study habits and academic performance for a data analytics module.
-No AI-generated text was included verbatim in the final submission. All analysis, interpretation, and written content were independently produced by the student group.
+ChatGPT was used solely to support idea generation and structural planning for this group research project. All data analysis, interpretation of results, and written content were independently produced by the student group, and no AI-generated text was included verbatim in the final submission.
+
 Accessed: 13 January 2026. Available at: https://chat.openai.com/
+
 We confirm that a complete set of raw data has been retained, including the original survey questionnaire, downloaded survey records, and data analysis files, in accordance with the module’s academic conduct and data retention requirements.
 
 ## GitHub Repository Link
@@ -64,6 +64,8 @@ A quantitative, survey-based research design was employed to examine the relatio
 Data were collected through an online questionnaire distributed to university students. Participation was voluntary, and the survey was conducted anonymously. No personally identifiable information was collected.
 
 The questionnaire consisted of demographic items, self-reported academic performance (GPA category), and Likert-scale items measuring study habits. Responses were recorded using a five-point Likert scale ranging from 1 (Strongly Disagree) to 5 (Strongly Agree).
+
+The survey was distributed online and responses were collected asynchronously over a defined data collection period.
 
 ### 3.3 Data Preparation
 
