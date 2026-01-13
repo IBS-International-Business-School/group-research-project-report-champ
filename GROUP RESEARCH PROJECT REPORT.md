@@ -25,18 +25,18 @@ All project files, including raw data, code, and documentation, are available at
 https://github.com/IBS-International-Business-School/group-research-project-report-champ
 
 ## 1. Executive Summary
-### **Project Overview**
+### **1.1 Project Overview**
 
 This project examines the relationship between students’ study habits and academic performance in higher education. As universities increasingly adopt data-driven approaches to enhance learning outcomes, understanding which learning behaviours have the greatest impact on student success is essential. The study was conducted within the context of EduAnalytics Lab’s mission to inform academic support services and curriculum design through empirical research.
 
-### **What We Did**
+### **2.1 What We Did**
 A survey-based research approach was used to collect data from 169 students across different levels of study. The questionnaire measured five key study habit constructs: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics, alongside self-reported academic performance (GPA). After data cleaning and preparation, including Likert-scale transformation, reverse coding, and construct aggregation, Pearson correlation and multiple regression analyses were conducted to evaluate the relationships between study habits and academic performance.
 
-### **Key Findings**
+### **3.1 Key Findings**
 
 The analysis revealed that while all study habit constructs were positively correlated with academic performance, only digital tool usage and time management demonstrated statistically significant unique effects on GPA when controlling for other variables. Digital tool usage emerged as the strongest predictor of academic performance, highlighting the importance of purposeful and effective engagement with digital learning technologies.
 
-### **Recommendation:**
+### **4.1 Recommendation **
 
 The study recommends that higher education institutions prioritise the development of students’ digital learning competencies and time management skills through targeted academic support initiatives. Rather than relying on generic study skills programmes, universities should adopt focused, data-informed interventions that address the learning behaviours most strongly associated with academic success.
 
