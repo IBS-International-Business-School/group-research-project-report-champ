@@ -121,15 +121,15 @@ c) Limitations of the study include the use of self-reported GPA and the cross-s
 
 ## 6. Recommendations
 
-**1. Prioritise digital learning competencies**
+**6.1 Prioritise digital learning competencies**
 
 Higher education institutions should prioritise the development of students’ digital learning competencies. Training initiatives should emphasise the strategic use of digital tools for organisation, learning support, and academic planning, rather than focusing solely on technology adoption.
 
-**2. Embed time management support in early-stage programmes**
+**6.2 Embed time management support in early-stage programmes**
 
 Time management support should be integrated into early-stage academic programmes, particularly for first-year students. Interventions such as structured planning tools and workload management workshops may help students translate learning intentions into effective and sustainable study behaviours.
 
-**3. Adopt integrated academic support approaches**
+**6.3 Adopt integrated academic support approaches**
 
 Academic support services should adopt integrated approaches that recognise the interconnected nature of learning behaviours. Rather than addressing study habits in isolation, data-informed targeting of support resources may improve both the efficiency and effectiveness of student success initiatives.
 
