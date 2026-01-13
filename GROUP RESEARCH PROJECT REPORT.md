@@ -135,11 +135,22 @@ Academic support services should adopt integrated approaches that recognise the 
 
 ## 7. Reflection on Team Process
 
-Throughout the project, the team adopted a lean and agile approach to collaboration. The work was organised into short sprints aligned with key milestones, including survey design, data analysis, and report writing. Informal stand-up meetings facilitated progress updates and issue resolution, while brief retrospectives supported continuous improvement.
+###**7.1 Adoption of a lean and agile workflow**
 
-GitHub served as the central collaboration platform. Branching was used to develop different components in parallel, pull requests enabled peer review and quality control, and GitHub Issues supported task tracking and transparency. Evidence of collaboration is demonstrated through the GitHub commit history, branch structure, and pull request records.
+Throughout the project, the team adopted a lean and agile approach to collaboration, which was particularly effective given the small team size and limited timeframe. The project was structured into short, goal-oriented sprints aligned with key milestones, such as survey design, data analysis, and report writing. This approach helped break down a complex research task into manageable phases and reduced the risk of workload bottlenecks near deadlines.
 
-This workflow enhanced adaptability, accountability, and shared ownership of the project outcome.
+###**7.2 Use of informal stand-ups and retrospectives**
+Informal stand-up meetings were used to share progress updates, clarify responsibilities, and identify issues at an early stage. These check-ins improved coordination and allowed the team to respond quickly to emerging challenges. In addition, brief retrospective discussions were held after major phases to reflect on what worked well and what could be improved, supporting continuous learning and process refinement.
+
+###**7.3 GitHub as a central collaboration platform**
+GitHub served as the primary platform for collaboration and version control. Branching enabled parallel development of different components without disrupting the main workflow, while pull requests facilitated peer review, constructive feedback, and quality control. GitHub Issues were used to track tasks and document problems, enhancing transparency and accountability.
+
+###**7.4 Evidence of collaboration and shared ownership**
+Evidence of effective collaboration can be found in the GitHub commit history, branch structure, and pull request records. These artefacts demonstrate active participation from all team members and reflect a shared sense of responsibility for the project’s outcomes.
+
+###**7.5 Impact on teamwork and personal learning**
+
+Overall, this workflow enhanced adaptability, accountability, and shared ownership of the project. More importantly, it strengthened my understanding of how agile principles and collaborative tools can support effective teamwork in data-driven research environments, which I intend to apply in future academic and professional projects.
 
 ## 8.**Conclusion**
 This study explored the relationship between students’ study habits and academic performance using a survey-based, data-driven approach. The findings indicate that although multiple study habits are positively associated with academic performance, digital tool usage and time management emerge as the most influential predictors of GPA when examined simultaneously.
