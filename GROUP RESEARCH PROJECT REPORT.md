@@ -29,27 +29,27 @@ https://github.com/IBS-International-Business-School/group-research-project-repo
 
 This project examines the relationship between students’ study habits and academic performance in higher education. As universities increasingly adopt data-driven approaches to enhance learning outcomes, understanding which learning behaviours have the greatest impact on student success is essential. The study was conducted within the context of EduAnalytics Lab’s mission to inform academic support services and curriculum design through empirical research.
 
-### **2.1 What We Did**
+### **1.2 What We Did**
 A survey-based research approach was used to collect data from 169 students across different levels of study. The questionnaire measured five key study habit constructs: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics, alongside self-reported academic performance (GPA). After data cleaning and preparation, including Likert-scale transformation, reverse coding, and construct aggregation, Pearson correlation and multiple regression analyses were conducted to evaluate the relationships between study habits and academic performance.
 
-### **3.1 Key Findings**
+### **1.3 Key Findings**
 
 The analysis revealed that while all study habit constructs were positively correlated with academic performance, only digital tool usage and time management demonstrated statistically significant unique effects on GPA when controlling for other variables. Digital tool usage emerged as the strongest predictor of academic performance, highlighting the importance of purposeful and effective engagement with digital learning technologies.
 
-### **4.1 Recommendation **
+### **1.4 Recommendation **
 
 The study recommends that higher education institutions prioritise the development of students’ digital learning competencies and time management skills through targeted academic support initiatives. Rather than relying on generic study skills programmes, universities should adopt focused, data-informed interventions that address the learning behaviours most strongly associated with academic success.
 
 ## 2. Introduction
-**Background and Context**
+**2.1 Background and Context**
 
 Academic performance is influenced by a range of behavioural, cognitive, and contextual factors, among which students’ study habits play a central role. In higher education, students are expected to manage increasing levels of autonomy, workload, and digital engagement, making effective study behaviours essential for academic success. As universities continue to expand flexible and technology-mediated learning environments, understanding how different study habits relate to academic performance has become an important concern for educators and academic support services.
 
-**Research Motivation**
+**2.2 Research Motivation**
 
 The objective of this study is to examine the relationship between key study habit constructs and academic performance using a data-driven approach. Specifically, the study investigates five dimensions of study habits: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics. By applying correlation and multiple regression analyses, the research aims to identify which study habits are most strongly associated with academic performance and which demonstrate unique predictive value when controlling for overlapping behaviours.
 
-**Structure of the Report**
+**2.3 Structure of the Report**
 
 The remainder of this report is organised as follows. The next section outlines the research methodology, including survey design, data collection, and analytical methods. This is followed by the presentation of results from the correlation and regression analyses. The discussion section interprets the findings in relation to existing literature and addresses limitations. Finally, the report concludes with practical recommendations and a reflection on the team’s collaborative research process.
 
