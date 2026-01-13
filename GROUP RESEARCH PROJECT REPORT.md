@@ -36,7 +36,7 @@ A survey-based research approach was used to collect data from 169 students acro
 
 The analysis revealed that while all study habit constructs were positively correlated with academic performance, only digital tool usage and time management demonstrated statistically significant unique effects on GPA when controlling for other variables. Digital tool usage emerged as the strongest predictor of academic performance, highlighting the importance of purposeful and effective engagement with digital learning technologies.
 
-### **1.4 Recommendation**
+### **1.4 Recommendations**
 
 The study recommends that higher education institutions prioritise the development of students’ digital learning competencies and time management skills through targeted academic support initiatives. Rather than relying on generic study skills programmes, universities should adopt focused, data-informed interventions that address the learning behaviours most strongly associated with academic success.
 
