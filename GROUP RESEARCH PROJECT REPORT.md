@@ -12,7 +12,7 @@ BADR KOURDAD
 
 XUE QIAN
    
-## **Declaration**
+##**Declaration**
 
 ChatGPT (GPT-5) was used to brainstorm themes and structure for this group research project report on the topic of Study Habits and Academic Performance.
 Prompt example: “Help structure a survey-based research report examining study habits and academic performance for a data analytics module.
@@ -20,52 +20,52 @@ No AI-generated text was included verbatim in the final submission. All analysis
 Accessed: 13 January 2026. Available at: https://chat.openai.com/
 We confirm that a complete set of raw data has been retained, including the original survey questionnaire, downloaded survey records, and data analysis files, in accordance with the module’s academic conduct and data retention requirements.
 
-## GitHub Repository Link
+##**GitHub Repository Link**
 All project files, including raw data, code, and documentation, are available at:
 https://github.com/IBS-International-Business-School/group-research-project-report-champ
 
-## 1. Executive Summary
-### **1.1 Project Overview**
+##**1. Executive Summary**
+###**1.1 Project Overview**
 
 This project examines the relationship between students’ study habits and academic performance in higher education. As universities increasingly adopt data-driven approaches to enhance learning outcomes, understanding which learning behaviours have the greatest impact on student success is essential. The study was conducted within the context of EduAnalytics Lab’s mission to inform academic support services and curriculum design through empirical research.
 
-### **1.2 What We Did**
+###**1.2 What We Did**
 A survey-based research approach was used to collect data from 169 students across different levels of study. The questionnaire measured five key study habit constructs: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics, alongside self-reported academic performance (GPA). After data cleaning and preparation, including Likert-scale transformation, reverse coding, and construct aggregation, Pearson correlation and multiple regression analyses were conducted to evaluate the relationships between study habits and academic performance.
 
-### **1.3 Key Findings**
+###**1.3 Key Findings**
 
 The analysis revealed that while all study habit constructs were positively correlated with academic performance, only digital tool usage and time management demonstrated statistically significant unique effects on GPA when controlling for other variables. Digital tool usage emerged as the strongest predictor of academic performance, highlighting the importance of purposeful and effective engagement with digital learning technologies.
 
-### **1.4 Recommendation **
+###**1.4 Recommendation**
 
 The study recommends that higher education institutions prioritise the development of students’ digital learning competencies and time management skills through targeted academic support initiatives. Rather than relying on generic study skills programmes, universities should adopt focused, data-informed interventions that address the learning behaviours most strongly associated with academic success.
 
-## 2. Introduction
-**2.1 Background and Context**
+##**2. Introduction**
+###**2.1 Background and Context**
 
 Academic performance is influenced by a range of behavioural, cognitive, and contextual factors, among which students’ study habits play a central role. In higher education, students are expected to manage increasing levels of autonomy, workload, and digital engagement, making effective study behaviours essential for academic success. As universities continue to expand flexible and technology-mediated learning environments, understanding how different study habits relate to academic performance has become an important concern for educators and academic support services.
 
-**2.2 Research Motivation**
+###**2.2 Research Motivation**
 
 The objective of this study is to examine the relationship between key study habit constructs and academic performance using a data-driven approach. Specifically, the study investigates five dimensions of study habits: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics. By applying correlation and multiple regression analyses, the research aims to identify which study habits are most strongly associated with academic performance and which demonstrate unique predictive value when controlling for overlapping behaviours.
 
-**2.3 Structure of the Report**
+###**2.3 Structure of the Report**
 
 The remainder of this report is organised as follows. The next section outlines the research methodology, including survey design, data collection, and analytical methods. This is followed by the presentation of results from the correlation and regression analyses. The discussion section interprets the findings in relation to existing literature and addresses limitations. Finally, the report concludes with practical recommendations and a reflection on the team’s collaborative research process.
 
-## 3. Methodology
+##3. Methodology
 
-### 3.1 Research Design
+###3.1 Research Design
 
 A quantitative, survey-based research design was employed to examine the relationship between students’ study habits and academic performance. This approach was selected to enable systematic data collection and statistical analysis across multiple learning constructs.
 
-### 3.2 Data Collection
+###3.2 Data Collection
 
 Data were collected through an online questionnaire distributed to university students. Participation was voluntary, and the survey was conducted anonymously. No personally identifiable information was collected.
 
 The questionnaire consisted of demographic items, self-reported academic performance (GPA category), and Likert-scale items measuring study habits. Responses were recorded using a five-point Likert scale ranging from 1 (Strongly Disagree) to 5 (Strongly Agree).
 
-### 3.3 Data Preparation
+###3.3 Data Preparation
 
 Data cleaning was conducted in multiple stages. System-generated metadata were removed, variables were standardised, and Likert-scale responses were converted to numeric values. One reverse-coded item related to procrastination was recoded to ensure directional consistency. Composite constructs were then created by averaging relevant items for each study habit category. GPA was converted from categorical responses into an ordinal numeric variable ranging from 1 to 4.
 
@@ -73,15 +73,15 @@ Data cleaning was conducted in multiple stages. System-generated metadata were r
 
 Descriptive statistics, Pearson correlation analysis, and multiple linear regression were used to analyse the data. Cronbach’s alpha was calculated to assess the internal consistency of each construct. All analyses were conducted using Python-based statistical tools.
 
-## 4. Results 
+##4. Results 
 
-### **4.1 Correlation Analysis**
+###**4.1 Correlation Analysis**
 
 Pearson correlation analysis revealed positive relationships between all study habit constructs and academic performance. Digital tool usage demonstrated the strongest correlation with GPA (r = 0.38), while time management, self-regulated learning, revision strategies, and group study dynamics exhibited weaker positive correlations (r ≈ 0.20–0.22). Strong intercorrelations were observed among the study habit constructs themselves, indicating that effective learning behaviours tend to co-occur.
 <img width="994" height="844" alt="image" src="https://github.com/user-attachments/assets/e900b7ac-2a4a-453d-a9d3-7e6a476833e5" />
 
 
-### **4.2 Multiple Regression Analysis**
+###**4.2 Multiple Regression Analysis**
 
 A multiple linear regression analysis was conducted to assess the unique predictive power of each study habit construct. The overall model was statistically significant, F(5,163) = 6.98, p < .001, explaining 17.6% of the variance in GPA (R² = .176, adjusted R² = .151).
 
@@ -89,9 +89,9 @@ Digital tool usage (β = .507, p < .001) emerged as the strongest predictor of a
 <img width="1169" height="819" alt="image" src="https://github.com/user-attachments/assets/a00b3e27-5976-4021-8c10-c965addb4031" />
 
 
-## **5. Discussion**
+##**5. Discussion**
 
-### **5.1 Key finds**
+###**5.1 Key finds**
 
 a) The findings indicate that while multiple study habits are associated with academic performance, only certain behaviours retain predictive power when examined simultaneously.
 
@@ -99,19 +99,19 @@ b) Digital tool usage emerged as the most influential predictor of GPA, suggesti
 
 c) This result aligns with prior research emphasising the growing importance of digital competence in contemporary learning environments.
 
-### **5.2 Role of Time Management**
+###**5.2 Role of Time Management**
 
 a) Time management demonstrated a statistically significant independent effect on GPA, reinforcing its role as a foundational self-management skill in higher education.
 
 b) This finding supports existing literature that identifies effective time management as critical in contexts characterised by high autonomy and flexible learning structures.
 
-### **5.3 Non-Significant Predictors and Behavioural Overlap**
+###**5.3 Non-Significant Predictors and Behavioural Overlap**
 
 a) Self-regulated learning, revision strategies, and group study dynamics did not independently predict GPA in the regression model, despite their positive correlations with academic performance.
 
 b) This pattern likely reflects the interconnected nature of learning behaviours and the presence of overlapping effects among constructs when analysed simultaneously.
 
-### **5.4 Methodological Implications and Limitations**
+###**5.4 Methodological Implications and Limitations**
 
 a) From a methodological perspective, the results highlight the value of multivariate analysis in educational research.
 
@@ -133,7 +133,7 @@ Time management support should be integrated into early-stage academic programme
 
 Academic support services should adopt integrated approaches that recognise the interconnected nature of learning behaviours. Rather than addressing study habits in isolation, data-informed targeting of support resources may improve both the efficiency and effectiveness of student success initiatives.
 
-## 7. Reflection on Team Process
+##7. Reflection on Team Process
 
 ###**7.1 Adoption of a lean and agile workflow**
 
