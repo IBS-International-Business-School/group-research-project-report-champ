@@ -47,7 +47,7 @@ Academic performance is influenced by a range of behavioural, cognitive, and con
 
 ### **2.2 Research Motivation**
 
-The objective of this study is to examine the relationship between key study habit constructs and academic performance using a data-driven approach. Specifically, the study investigates five dimensions of study habits: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics. By applying correlation and multiple regression analyses, the research aims to identify which study habits are most strongly associated with academic performance and which demonstrate unique predictive value when controlling for overlapping behaviours.
+The objective of this study is to examine the relationship between key study habit constructs and academic performance using a rigorous data-driven approach. Specifically, the study investigates five core dimensions of study habits: time management, self-regulated learning, revision strategies, digital tool usage, and group study dynamics. By applying both correlation analysis and multiple regression techniques, the research seeks to explore the strength and direction of associations between these variables and academic outcomes. Furthermore, the study aims to determine which study habits contribute most significantly to academic performance and which demonstrate unique predictive value when controlling for overlapping behaviours and interrelated learning strategies.
 
 ### **2.3 Structure of the Report**
 
