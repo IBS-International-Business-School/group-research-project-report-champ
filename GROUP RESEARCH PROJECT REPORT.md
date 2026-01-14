@@ -146,11 +146,11 @@ Informal stand-up meetings were used to share progress updates, clarify responsi
 GitHub served as the primary platform for collaboration and version control. Branching enabled parallel development of different components without disrupting the main workflow, while pull requests facilitated peer review, constructive feedback, and quality control. GitHub Issues were used to track tasks and document problems, enhancing transparency and accountability.
 
 ### **7.4 Evidence of collaboration and shared ownership**
-Evidence of effective collaboration can be found in the GitHub commit history, branch structure, and pull request records. These artefacts demonstrate active participation from all team members and reflect a shared sense of responsibility for the project’s outcomes.
+Evidence of effective collaboration can be found in the GitHub commit history, branch structure, and pull request records. These artefacts clearly show regular contributions, peer reviews, coordinated development efforts, and transparent communication, demonstrating active participation from all team members and a shared sense of responsibility for the project’s overall outcomes and quality.
 
 ### **7.5 Impact on teamwork and personal learning**
 
-Overall, this workflow enhanced adaptability, accountability, and shared ownership of the project. More importantly, it strengthened my understanding of how agile principles and collaborative tools can support effective teamwork in data-driven research environments, which I intend to apply in future academic and professional projects.
+Overall, this workflow enhanced adaptability, accountability, and shared ownership of the project by encouraging continuous feedback and iterative improvement. More importantly, it strengthened my understanding of how agile principles and collaborative digital tools can effectively support teamwork, communication, and coordination in data-driven research environments. These insights have increased my confidence in managing group projects, and I intend to actively apply these practices in future academic studies and professional work settings.
 
 ## **8.Conclusion**
 This study explored the relationship between students’ study habits and academic performance using a survey-based, data-driven approach. The findings indicate that although multiple study habits are positively associated with academic performance, digital tool usage and time management emerge as the most influential predictors of GPA when examined simultaneously.
